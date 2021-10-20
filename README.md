@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DiSay1
-- 👀 I’m interested in programing & history
-- 🌱 I’m currently learning Golang, C#, C/C++, JS & History ><
-- 💞️ I’m looking to collaborate on Apple/Google/Microsoft/Pentagon (Take me to work! I learn fast. Honestly)
-- 📫 How to reach me 
+- 👋 Hi, I'm @ DiSay1
+- 👀 Interested in programming and history
+- 🌱 I am currently learning Golang, C #, C / C ++, JS and history> <
+- 💞️ I want to work at Apple/Google/Microsoft/Pentagon (Take me to work! I'm a fast learner. Honestly)
+- 📫 How to get to me? It's impossible
 
 <!---
 DiSay1/DiSay1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
